@@ -1,6 +1,6 @@
-# awesome-home-k8s
+# awesome-home-kubernetes
 
-A curation of projects and resources  involving running Kubernetes at home.
+A curation of projects and resources  involving running Kubernetes at home. ⛵
 
 ## home gitops clusters
 
